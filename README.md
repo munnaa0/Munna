@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Sultan Mahmud Munna</h1>
 <h3 align="center">A passionate Programmer and Developer.</h3>
 
-- 🌱 I’m currently learning **Java, Kotlin, C#**
+- 🤠 I'm currently studying B.Sc. Engineering in Computer Science and Engineering at Bangladesh Army University of Science and Technology.
 
-- 💬 Ask me about **C, C++**
+- 🌱 I’m currently learning **Java, Kotlin, C#.**
+
+- 💬 Ask me about **C, C++.**
 
 - ⚡ Fun fact **I love playing games..A loooooooooooot..✨**
 
