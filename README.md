@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Md. Sultan Mahmud Munna.
-- 🐸 I am currently studying Bachelors at Computer Science in Bangladesh Army University of Science And Technology (BAUST)
-- 👀 I’m very interested in Game Development and debugging.
-- 🌱 I’m currently learning C# and Unity engine to create my own game.
-- 🌹 I made a simple visual novel in Ren'py and still continuing it.
-- 📫 To reach me just send a mail to munna.syc@gmail.com
-- ⚡ Fun fact: I love playing games..A loooooooooooot..✨
+<h1 align="center">Hi 👋, I'm Md Sultan Mahmud Munna</h1>
+<h3 align="center">A passionate Programmer and Developer.</h3>
 
-<!---
-sultanmunna/sultanmunna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **Java, Kotlin, C#**
+
+- 💬 Ask me about **C, C++**
+
+- ⚡ Fun fact **I love playing games..A loooooooooooot..✨**
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
