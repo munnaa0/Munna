@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sultan Mahmud Munna</h1>
 <h3 align="center">A passionate Programmer and Developer.</h3>
 
-- 🤠 I'm currently studying B.Sc. Engineering in Computer Science and Engineering at Bangladesh Army University of Science and Technology.
+- 🤠 I'm currently studying B.Sc. Engineering in **Computer Science and Engineering** at **Bangladesh Army University of Science and Technology**.
 
 - 🌱 I’m currently learning **Java, Kotlin, C#.**
 
