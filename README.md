@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, C#.**
 
+- Made some small projects on Java and C++ 🍦
+
 - 💬 Ask me about **C, C++.**
 
 - ⚡ Fun fact **I love playing games..A loooooooooooot..✨**
