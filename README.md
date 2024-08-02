@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, C#.**
 
-- Made some small projects on Java and C++ 🍦
+- 🎊 Made some small projects on Java and C++.
 
 - 💬 Ask me about **C, C++.**
+
+- 🎮 My Wish is to create my own game from scratch 😁 
 
 - ⚡ Fun fact **I love playing games..A loooooooooooot..✨**
 
