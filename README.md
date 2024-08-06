@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C, C++.**
 
-- 🎮 My Wish is to create my own game from scratch 😁 
+- 🎮 My Wish is to create my own game from scratch.. 😁 
 
 - ⚡ Fun fact **I love playing games..A loooooooooooot..✨**
 
